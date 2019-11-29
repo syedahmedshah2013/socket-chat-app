@@ -1,0 +1,20 @@
+{
+  "name": "socket.io",
+  "version": "1.0.0",
+  "description": "Web Sockets Projetcs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run app"
+  },
+  "dependencies": {
+    "express": "~4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "keywords": [
+    "chat",
+    "app",
+    "realtime"
+  ],
+  "author": "Syed Ahmed Shah",
+  "license": "ISC"
+}
